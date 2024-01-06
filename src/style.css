@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family:'Wendy One', sans-serif;
+}
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
