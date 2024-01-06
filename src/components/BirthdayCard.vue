@@ -31,7 +31,7 @@
                         🥳 
                     </span>
                 </h1>
-                <h2 class="text-4xl pb-4 font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Saepulloh</h2>
+                <h2 class="text-4xl pb-4 font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Sepuh!</h2>
                   <p class="text-gray-300">Selamat hari ulang tahun ke {{ age ? age : '18' }} Puh<br/> Sekarang sudah resmi menjadi dewasa! XD</p>
             </div>
         </div>
